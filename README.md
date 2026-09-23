@@ -1,12 +1,8 @@
-Claro. Abaixo está o **README completo**, já pronto para copiar e colar no `README.md` do GitHub.
-
 # 🐍 Revisão de Python para Desenvolvimento Web
 
-Material de apoio da disciplina de **Programação Web**, destinado aos estudantes do **2º ano do Ensino Médio Integrado em Informática** do **Instituto Federal do Piauí (IFPI)**.
+Material de apoio da disciplina de **Programação Web**, destinado aos estudantes do **2º ano do Ensino Médio Integrado em Informática** do **Instituto Federal do Piauí (IFPI) - Campus Corrente-PI **.
 
 Este repositório contém as resoluções dos exercícios da **Lista de Exercícios — Revisão de Python para Desenvolvimento Web**.
-
-O objetivo é revisar conceitos fundamentais de Python que serão utilizados nas próximas aulas de desenvolvimento Web com **Flask**.
 
 ---
 
@@ -285,78 +281,6 @@ Carlos - 5.5 - Reprovado
 Maria - 9.0 - Aprovado
 João - 4.5 - Reprovado
 ```
-
----
-
-# 🌐 Relação com Desenvolvimento Web
-
-Por que estamos revisando Python em uma disciplina de **Programação Web**?
-
-Nas próximas aulas utilizaremos Python no desenvolvimento do **Back-end** das nossas aplicações.
-
-Até agora, trabalhamos com funções como:
-
-```python
-def inicio():
-    return "Olá, turma!"
-```
-
-Com o Flask, poderemos associar essa função a uma **rota Web**:
-
-```python
-@app.route("/")
-def inicio():
-    return "Olá, turma!"
-```
-
-Assim, quando o navegador acessar determinada rota, uma função Python poderá ser executada para produzir uma resposta.
-
-O fluxo básico será:
-
-```text
-Navegador
-    ↓
-Requisição HTTP
-    ↓
-Flask
-    ↓
-Rota
-    ↓
-Função Python
-    ↓
-Processamento
-    ↓
-Resposta
-    ↓
-Navegador
-```
-
-Portanto, os conceitos revisados neste repositório serão utilizados diretamente durante o desenvolvimento das nossas aplicações Web.
-
----
-
-## 🚀 Próximos passos
-
-Após esta revisão, avançaremos para:
-
-```text
-Python
-   ↓
-Flask
-   ↓
-Aplicação Web
-   ↓
-Rotas
-   ↓
-Funções Python
-   ↓
-Respostas para o navegador
-```
-
-A ideia é evoluir gradualmente de pequenos programas Python para **aplicações Web dinâmicas**.
-
----
-
 ## 👨‍🏫 Informações
 
 **Disciplina:** Programação Web  
