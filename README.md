@@ -1,7 +1,7 @@
 # Revisão de Python para Desenvolvimento Web
 
 Material de apoio da disciplina de **Programação Web** do
-2º ano do Ensino Médio Integrado em Informática.
+2º ano do Ensino Médio Integrado em Informática - IFPI Corrente-PI
 
 Este repositório contém as resoluções dos exercícios da lista
 de revisão de Python utilizada antes das atividades práticas
