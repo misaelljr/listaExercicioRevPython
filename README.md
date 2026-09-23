@@ -1,6 +1,6 @@
 # 🐍 Revisão de Python para Desenvolvimento Web
 
-Material de apoio da disciplina de **Programação Web**, destinado aos estudantes do **2º ano do Ensino Médio Integrado em Informática** do **Instituto Federal do Piauí (IFPI) - Campus Corrente-PI **.
+Material de apoio da disciplina de **Programação Web**, destinado aos estudantes do **2º ano do Ensino Médio Integrado em Informática** do **Instituto Federal do Piauí (IFPI) - Campus Corrente-PI**.
 
 Este repositório contém as resoluções dos exercícios da **Lista de Exercícios — Revisão de Python para Desenvolvimento Web**.
 
